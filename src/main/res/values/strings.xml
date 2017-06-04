@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TanTanAuto</string>
+    <string name="app_label">探探自动右滑插件</string>
+    <string name="open_accessiblity_service">打开探探插件辅助服务</string>
+    <string name="service_connected">自动右滑服务已开启</string>
+    <string name="service_interuppted">自动右滑服务已被中断</string>
+    <string name="service_started">自动右滑服务已经开启</string>
+    <string name="tip">不要主动杀死app</string>
+    <string name="isolated_process">TanTanMonitorService</string>
+    <string name="app_tip">打开应用服务会在后台自动开启</string>
+</resources>
